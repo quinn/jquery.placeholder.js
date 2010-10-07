@@ -1,0 +1,5 @@
+usage:
+
+<input type="text" placeholder="type your email address here" name="email">
+
+it tries to emulate the html5 spec for placeholder as closely as possible.
